@@ -14,7 +14,7 @@ Original data downloaded via Wilber3
 ### SSI_1993-2003
 * SSI_1993-12-01-mw57-south-sandwich-islands-region.tar    (May29 2023)
 * SSI_2003-09-06-mwc57-south-sandwich-islands-region.tar    (May29 2023)
-* SACPZ.KN.AAK.00.BHZ.1993    (extracted for individual view)
+* SACPZ.II.AAK.00.BHZ.1993    (extracted for individual view)
 * SACPZ.II.AAK.00.BHZ.2003    (extracted for individual view)
 * SACPZ.II.OBN.00.BHZ.1993    (extracted for individual view)
 * SACPZ.II.OBN.00.BHZ.2003    (extracted for individual view)
