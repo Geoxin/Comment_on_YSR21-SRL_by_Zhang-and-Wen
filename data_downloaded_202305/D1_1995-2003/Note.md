@@ -1,0 +1,1 @@
+* Data and instrument responses for events 1995/11/14 and 2003/07/02 of doublet D1_1995-2003, accessed on May 22, 2023 from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center (DMC) (https://ds.iris.edu/ds/nodes/dmc/) through the IRIS Wilber 3 system (https://ds.iris.edu/wilber3/).
