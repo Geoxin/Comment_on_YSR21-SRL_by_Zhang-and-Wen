@@ -1,1 +1,5 @@
-Data and instrument responses of events 1993/11/05 and 2004/05/09 of doublet D2_1993-2004.
+Data and instrument responses for events 1993/11/05 and 2004/05/09 of doublet D2_1993-2004, accessed on May 22, 2023 from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center (DMC) (https://ds.iris.edu/ds/nodes/dmc/) through the IRIS Wilber 3 system (https://ds.iris.edu/wilber3/).
+- 1993-11-05-mw52-java-indonesia.tar: the original zip. file for event 1993 downloaded via Wilber3 on May 22, 2023;
+- 2004-05-09-mwc52-java-indonesia.tar: the original zip. file for event 2004 downloaded via Wilber3 on May 22, 2023;
+- SACPZ.II.OBN.00.BHZ.1993: the instrument response used for data of 1993 at OBN, extracted from 1993-11-05-mw52-java-indonesia.tar/IRISDMC;
+- SACPZ.II.OBN.00.BHZ.2004: the instrument response used for data of 2004 at OBN, extracted from 2004-05-09-mwc52-java-indonesia.tar/IRISDMC;
