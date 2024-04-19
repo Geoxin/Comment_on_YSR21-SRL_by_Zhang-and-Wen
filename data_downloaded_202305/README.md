@@ -21,6 +21,6 @@ Original data downloaded via Wilber3
 * SACPZ.II.ARU.00.BHZ.1993    (extracted for individual view)
 * SACPZ.II.ARU.00.BHZ.2003    (extracted for individual view)
 
-# PDE catalog info. from YSR21
+# PDE catalog info. for data
 - Info.time.D1-D2: for D1_1995-2003 & D2_1993-2004 following YSR21
 - Info.time.SSI: for SSI_1993-2003 following Wen06
