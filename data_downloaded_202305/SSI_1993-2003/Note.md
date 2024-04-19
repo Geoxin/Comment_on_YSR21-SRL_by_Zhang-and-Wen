@@ -1,8 +1,6 @@
 Data and instrument responses for events 1993/12/01 and 2003/09/06 of doublet SSI_1993-2003, accessed on May 29, 2023 from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center (DMC) (https://ds.iris.edu/ds/nodes/dmc/) through the IRIS Wilber 3 system (https://ds.iris.edu/wilber3/).
-- SSI_1993-12-01-mw57-south-sandwich-islands-region.tar:
-  the original zip. file for event 1993 downloaded via Wilber3 on May 29, 2023;
-- SSI_2003-09-06-mwc57-south-sandwich-islands-region.tar:
-  the original zip. file for event 2003 downloaded via Wilber3 on May 29, 2023;
+- [SSI_1993-12-01-mw57-south-sandwich-islands-region.tar](https://drive.google.com/file/d/1o09-N_KLmkZc6WmxwSA7-0PEE6ypbdH1/view?usp=drive_link):  the original zip. file for event 1993 downloaded via Wilber3 on May 29, 2023;
+- [SSI_2003-09-06-mwc57-south-sandwich-islands-region.tar](https://drive.google.com/file/d/1PGeFI2eDzlQKaYYCTrAWEptbJ_izMtNa/view?usp=drive_link):  the original zip. file for event 2003 downloaded via Wilber3 on May 29, 2023;
 - SACPZ.KN.AAK.--.BHZ.1993:
   the instrument response used for data of 1993 at AAK, extracted from SSI_1993-12-01-mw57-south-sandwich-islands-region.tar/IRISDMC;
 - SACPZ.II.AAK.--.BHZ.2003:
