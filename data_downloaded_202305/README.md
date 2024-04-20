@@ -1,4 +1,4 @@
-Original data downloaded via [Wilber3](https://ds.iris.edu/wilber3/)
+Original data used in this comment were downloaded via [Wilber3](https://ds.iris.edu/wilber3/)
 ---
 # data_downloaded_202305
 ### D1_1995-2003
@@ -24,3 +24,8 @@ Original data downloaded via [Wilber3](https://ds.iris.edu/wilber3/)
 # PDE catalog info. for data
 - Info.time.D1-D2: for D1_1995-2003 & D2_1993-2004 following YSR21
 - Info.time.SSI: for SSI_1993-2003 following Wen06
+
+
+Duplication of the instrument response used in YSR21 accessed from the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen).
+---
+- SAC_PZs_II_OBN_00_BHZ ("created: 2021-04-18T15:01:29" as shown in the file)
