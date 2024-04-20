@@ -1,10 +1,14 @@
 # Figure A2. 
 ### (Un)reproducibility of YSR21’s “clock error” and examples of some irregularities in the correction YSR23-errata.
 * PA2.pl: Perl plotting script based on GMT-5.4.5.
+   * \>\> List_dtAlign_all
+   * \>\> List_eventpairs
+   * \>\> PA2.ps
 1. Collection of station info./seismic data of the "problematic" stations listed in YSR21.
-   1) Most data could be accessed on IRIS via SOD, so info. of stations are read from SAC files.
+   1) Most data could be accessed on IRIS via SOD, so info. of stations are read from [SAC files]().
      - 1.1_stadownlist.pl
      - 1.2_cycle-downSOD.pl
+       - << ./lib_downSOD/
    2)  For whose data unaccessible, info. of stations are directly got via [SOD](https://www.seis.sc.edu/sod/) (time consuming):
      - `find_stations -b yyyy-mm-dd -e yyyy-mm-dd -s StationName -n NetworkName`.
    3) Manual check is needed to avoid missing
