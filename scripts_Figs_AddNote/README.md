@@ -14,7 +14,8 @@ Scripts for figures in "Additional note" of this comment
    - Data processed with instrument responses in two studies:
      - YSR21: II.OBN.00.BHZ.M.xxxx.xxx.xxxxxx.SAC.bp.ysr21
        - Data: same as those used in this comment in [file](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link)
-       - Instrument response: accessed in the [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen). Also see [a duplication of the authors' archive](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link). _NOTE: YSR21 instrument response of OBN is the same the version used in this comment, and is also identical with the version one could access at present on [IRIS](https://ds.iris.edu/mda/II/OBN/)_
+       - Instrument response: accessed in the [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen). Also see [a duplication of the authors' archive](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link).
+       - _NOTE: YSR21 instrument response of OBN is the same the version used in this comment, and is also identical with the version one could access at present on [IRIS](https://ds.iris.edu/mda/II/OBN/)_
      - This comment: OBN.D2.yyyy.sac
    - Following the plotting style of Fig. 5d in this comment.
 
