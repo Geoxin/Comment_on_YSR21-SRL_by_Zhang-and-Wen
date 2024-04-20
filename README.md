@@ -4,4 +4,4 @@ Data and scripts used in "Comment on YSR21-SRL" and its "additional note", and a
 ### References:
 - Yang, Y., X. Song, and A. T. Ringler (2021). An Evaluation of the Timing Accuracy of Global and Regional Seismic Stations and Networks, Seismol. Res. Lett., 93, no. 1, 161-172, doi: [10.1785/0220210232](https://doi.org/10.1785/0220210232).
 - Yang, Y., X. Song, and A. T. Ringler (2023). Erratum to An Evaluation of the Timing Accuracy of Global and Regional Seismic Stations and Networks, Seismol. Res. Lett.,95 , no. 1, 556, doi: [10.1785/0220230360](https://doi.org/10.1785/0220230360).
-- Zhang, X. and L. Wen (2024). Comment on “An Evaluation of the Timing Accuracy of Global and Regional Seismic Stations and Networks” by Yang et al. (2021), Seismol. Res. Lett. (accepted).
+- Zhang, X. and L. Wen (2024). Comment on “An Evaluation of the Timing Accuracy of Global and Regional Seismic Stations and Networks” by Yang et al. (2021), Seismol. Res. Lett. (accepted pending further revision after the commented authors' reply).
