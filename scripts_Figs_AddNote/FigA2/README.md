@@ -2,9 +2,9 @@ Fig. A2.
 ---
 * Perl script for plotting based on GMT-5.4.5:
 	- FA2.pl
-	   \>\> FA2.ps
-	   \>\> List_dtAlign_all
-	   \>\> List_eventpairs
+	   - >>> FA2.ps
+    	   - >>> List_dtAlign_all
+	   - >>> List_eventpairs
 
 - Tables in YSR21 & YSR23-errata
 	- YSR21_clcerr.csv: Table S2 in YSR21
