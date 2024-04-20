@@ -1,5 +1,5 @@
-# Figure A1. 
-### Residuals (dt(res)) based on the correction YSR23-errata and no effect of the instrument responses used between YSR21 and this comment. 
+Figure A1. Residuals (dt(res)) based on the correction YSR23-errata and no effect of the instrument responses used between YSR21 and this comment. 
+---
 * FA1.pl:  Perl plotting script based on GMT-5.4.5.
 1. dt(res) computed based on corrected relocation results in the correction YSR23-erratra.
    - Align-YSR23errata.D1/D2: List of dt(pre), dt(res) for P waves at global stations of the doublet D1/D2.
