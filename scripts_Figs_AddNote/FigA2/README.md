@@ -2,9 +2,9 @@ Fig. A2.
 ---
 * Perl script for plotting based on GMT-5.4.5:
 	- FA2.pl
-		>> FA2.ps
-		>> List_dtAlign_all
-		>> List_eventpairs
+	   \>\> FA2.ps
+	   \>\> List_dtAlign_all
+	   \>\> List_eventpairs
 
 - Tables in YSR21 & YSR23-errata
 	- YSR21_clcerr.csv: Table S2 in YSR21
@@ -24,14 +24,14 @@ Fig. A2.
 	- 2.2_output-clrerr.pl
 		<< List_multilocstas:
 			some station infos. accessed by manual checking.
-		>> List_stationinfos: stations directly found in data or find_stations; the else need to be accessed with manual checking.
+		\>\> List_stationinfos: stations directly found in data or find_stations; the else need to be accessed with manual checking.
 	- 2.3_output-check.pl
-		>> List_reproducibility
+		\>\> List_reproducibility
 
 - Script to compute RMS of D1 & D2
 	- 3_YSR23-dOrange.pl
-		>> List_RMS_YSR23.D1
-		>> List_RMS_YSR23.D2
+		\>\> List_RMS_YSR23.D1
+		\>\> List_RMS_YSR23.D2
 
 - data_
 	- data_evn1_evn2.num/Info_YSR23errata_evn1_evn2
