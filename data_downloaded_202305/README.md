@@ -1,4 +1,4 @@
-Original data downloaded via Wilber3
+Original data downloaded via [Wilber3](https://ds.iris.edu/wilber3/)
 ---
 # data_downloaded_202305
 ### D1_1995-2003
