@@ -15,7 +15,7 @@ Scripts for figures in "Additional note" of this comment
      - YSR21: II.OBN.00.BHZ.M.xxxx.xxx.xxxxxx.SAC.bp.ysr21
        - Data: same as those used in this comment in [file](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link)
        - Instrument response: accessed in the [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen). Also see [a duplication of the authors' archive](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link).
-       - _NOTE: YSR21 instrument response of OBN is the same the version used in this comment, and is also identical with the version one could access at present on [IRIS](https://ds.iris.edu/mda/II/OBN/)_
+       - _NOTE: YSR21 instrument response of OBN is the same the version used in this comment, and is also identical with the version one could access at present on [IRIS-MDA-OBN](https://ds.iris.edu/mda/II/OBN/).
      - This comment: OBN.D2.yyyy.sac
    - Following the plotting style of Fig. 5d in this comment.
 
@@ -25,7 +25,7 @@ Scripts for figures in "Additional note" of this comment
    - Most data could be accessed on IRIS via SOD, so info. of stations are read from SAC files.
    
    - For whose data unaccessible, info. of stations are directly got via SOD:
-     - `find_stations -b yyyy-mm-dd -e yyyy-mm-dd -s StationName -n NetworkName`
+     - `find_stations -b yyyy-mm-dd -e yyyy-mm-dd -s StationName -n NetworkName`.
      
 2. Recalculation of "clock errors" in Table S2 of YSR21.
 3. Figure plot.
