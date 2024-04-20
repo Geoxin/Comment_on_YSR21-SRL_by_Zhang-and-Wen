@@ -1,31 +1,25 @@
-# Figure A2. 
-### (Un)reproducibility of YSR21’s “clock error” and examples of some irregularities in the correction YSR23-errata.
-* PA2.pl: Perl plotting script based on GMT-5.4.5.
-   * \>\> List_dtAlign_all
-   * \>\> List_eventpairs
-   * \>\> PA2.ps
-1. Collection of station info./seismic data of the "problematic" stations listed in YSR21.
-   1) Most data could be accessed on IRIS via SOD, so info. of stations are read from [SAC files](https://drive.google.com/file/d/1Ay6kfJZXfmguYaoAQT3WumV-s3nBKzAp/view?usp=drive_link).
-     - 1.1_stadownlist.pl
-     - 1.2_cycle-downSOD.pl
-       - << ./lib_downSOD/
-   2)  For whose data unaccessible, info. of stations are directly got via [SOD](https://www.seis.sc.edu/sod/) (time consuming):
-     - `find_stations -b yyyy-mm-dd -e yyyy-mm-dd -s StationName -n NetworkName`.
-   3) Manual check is needed to avoid missing
-     - 1.3_check-downloaded.pl & manual check
-2. Relocation infos rearrange based on YSR23
-   - 2.1_output-reloinfo.pl
-3. Recalculation of "clock errors" in Table S2 of YSR21.
-   - 2.2_output-clcerr.pl
-      - _NOTE: as the phases in 104°~145° used in YSR21 to assess "clock error" were not exactly illustrated, we here compute P phases inlucing PKiKP, PKPab, PKPbc, PKPdf (PKIKP) in this distance range and use the one with the smallest d(dt(res)) w.r.t. YSR21 results._
-      - << List_multilocstas
-      - << data_evn1_evn2.num/Info_YSR23errata_evn1_evn2
-      - << "ttimes" (Buland & Chapman, 1983; IASP91 based following YSR21) to get parameters like slowness
-      - \>\> data_evn1_evn2.num/Info_dtAlign
-   - 2.3_output-check.pl
-      - \>\> List_reproducibility
-4. RMS of dt(res) for doublet D1
-   - 3_YSR23-dOrange.pl
-      - << ../Align-YSR23errata.D1
-      - \>\> List_RMS_YSR23.D1
-  
+Fig. A1.
+---
+* Perl script for plotting based on GMT-5.4.5:
+	- FA1.pl
+		\>\> FA1.ps
+
+- Info. of dt(res) computed based on YSR23-errata
+	- Align-YSR23errata.D1
+	- Align-YSR23errata.D2
+
+- Processed data with instr. resp. accessed in the commented authors' reply
+	- II.OBN.00.BHZ.M.1993.309.070429.SAC.bp.ysr21
+	- II.OBN.00.BHZ.M.2004.130.222754.SAC.bp.ysr21
+- Processed data with instr. resp. in this comment
+	- D2.1993.II.OBN.BHZ.sac.bp
+	- D2.2004.II.OBN.BHZ.sac.bp
+
+- Tables in YSR21 & YSR23-errata
+	- YSR21_clcerr.csv: Table S2 in YSR21
+	- YSR23_relocation.csv: Table S1 in YSR23-errata
+
+- Info. of relocation results in YSR21
+	- Info.YSR23errata.D1
+	- Info.YSR23errata.D2
+
