@@ -16,7 +16,7 @@
       - << List_multilocstas
       - << data_evn1_evn2.num/Info_YSR23errata_evn1_evn2
       - << "ttimes" (Buland & Chapman, 1983; IASP91 based following YSR21) to get parameters like slowness
-      - '>'> data_evn1_evn2.num/Info_dtAlign
+      - \>\> data_evn1_evn2.num/Info_dtAlign
    - 2.3_output-check.pl 
 4. RMS of dt(res) for doublet D1
    - 3_YSR23-dOrange.pl
