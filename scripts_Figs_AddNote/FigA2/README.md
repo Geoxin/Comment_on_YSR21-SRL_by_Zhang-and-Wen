@@ -17,6 +17,7 @@
    - 2.1_output-reloinfo.pl
 3. Recalculation of "clock errors" in Table S2 of YSR21.
    - 2.2_output-clcerr.pl
+      - _NOTE: as the phases used in YSR21 to assess "clock error" were not exactly illustrated, we here compute P phases inlucing P, Pn, Pdiff, PKiKP, PKPab, PKPbc, PKPdf (PKIKP) and use the one with the smallest d(dt(res)) w.r.t. YSR21 results._
       - << List_multilocstas
       - << data_evn1_evn2.num/Info_YSR23errata_evn1_evn2
       - << "ttimes" (Buland & Chapman, 1983; IASP91 based following YSR21) to get parameters like slowness
