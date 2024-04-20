@@ -29,3 +29,4 @@ Original data used in this comment were downloaded via [Wilber3](https://ds.iris
 Duplication of the instrument response used in YSR21 accessed from the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen).
 ---
 - SAC_PZs_II_OBN_00_BHZ ("created: 2021-04-18T15:01:29" as shown in the file)
+- See [link](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link) to rethieve duplication of the whole file zip. of the commented authors provided in their reply.
