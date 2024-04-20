@@ -1,6 +1,6 @@
 # Comment on YSR21-SRL by Zhang and Wen
-- [Original data](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link) used in this comment [ZW24];
-- Metadata and scripts used in the "additional note" of this comment;
+- [Original data](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link) used in this comment [ZW24] was downloaded via Wilber3 in May, 2023;
+- Data, metadata and scripts used in the "additional note" of this comment;
 - A [duplication](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link) of the uploaded acrchive of the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen).
 
 ### References:
