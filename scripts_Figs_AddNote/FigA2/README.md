@@ -11,7 +11,7 @@ Fig. A2.
 	- YSR23_relocation.csv: Table S1 in YSR23-errata
 
 - Scripts to get station & doublet infos.
- 	* Most can be accessed by downloading data via SOD, the else can be further accessed by "find_stations" via SOD
+ 	* Most can be accessed by downloading [data](https://drive.google.com/file/d/1Ay6kfJZXfmguYaoAQT3WumV-s3nBKzAp/view?usp=drive_link) via SOD, the else can be further accessed by "find_stations" via SOD.
 	- 1.1_stadownlist.pl
 	- 1.2_cycle-downSOD.pl
 		- ./lib_downSOD/
