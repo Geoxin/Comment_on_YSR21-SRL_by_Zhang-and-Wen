@@ -6,5 +6,5 @@ Scripts for figures in "Additional note" of this comment
    - YSR23_relocation.csv
      - Table S1 in [YSR23-errata](https://doi.org/10.1785/0220230360), generated as .csv file for easy read in scripts.
 - Figure A1. Residuals (dt(res)) based on the correction YSR23-errata and no effect of the instrument responses used between YSR21 and this comment. 
-- Figure A2. (Un)reproducibility of YSR21’s “clock error” and examples of some irregularities in the correction YSR23-errata.
-- Figure A3. Unrecoverable dt measurement in YSR21 for station OBN of doublet D2_1993-2004.
+- Figure A2. (Un)reproducibility of YSR21’s “clock errors” after the correction YSR23-errata and examples of some irregularities in the correction YSR23-errata.
+- Figure A3. (Un)recoverable dt measurement in YSR21 for station OBN of doublet D2_1993-2004 and station AAK of doublet D1_1995-2003.
