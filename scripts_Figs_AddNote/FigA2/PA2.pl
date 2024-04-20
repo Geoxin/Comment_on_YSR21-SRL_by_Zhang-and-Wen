@@ -12,14 +12,14 @@ use List::Util qw/min max/;
 `gmt set MAP_FRAME_PEN 0.8p`;
 
 # YSR infos
-our $ysrc = "../YSR21_clcerr.csv";
-our $ysrr = "../YSR23_relocation.csv";
+our $ysrc = "YSR21_clcerr.csv";
+our $ysrr = "YSR23_relocation.csv";
 # d(dtres)= YSR-recheck
 our $flist= "List_dtAlign_all";
 `cat data_*/Info_dtAlign|grep ">>>" > $flist`;
 our $elist= "List_eventpairs";
 `awk '{if (\$4==">>>") print \$2,\$3}' $flist > $elist`;
-# examples
+# a random example
 our @egees = qw/1991262_2011260 2001310_2014141 2007087_2016287/;
 
 # panel (a)
@@ -117,7 +117,7 @@ close OUTU;close OUTR;
 `echo "$xmin 0 (YSR21 - calculated) (ms)"|gmt pstext $J $R -F+f12p+jTC+a90 -Dj0c/-1.4c -K -O -N >> $PS`;
 `echo "$xmin 0 Difference of clock error"|gmt pstext $J $R -F+f12p+jTC+a90 -Dj0c/-1.9c -K -O -N >> $PS`;
 `echo "$xmin $ymin ID"|gmt pstext $J $R -F+f12p,1+jTC -Dj0c/0.34c -Gwhite -K -O -N >> $PS`;
-`echo '$xmin $ymax (a) (Un)reproducibility of YSR21 "clock errors"'|gmt pstext $J $R -F+f14p,1+jLB -Dj-0.8c/0.5c -N -K -O >> $PS`;
+`echo '$xmin $ymax (a) (Un)reproducibility of YSR21 "clock errors" after the correction YSR23-errata'|gmt pstext $J $R -F+f14p,1+jLB -Dj-0.8c/0.5c -N -K -O >> $PS`;
 
 
 # panels (b-d): dt(res) vs. dO
