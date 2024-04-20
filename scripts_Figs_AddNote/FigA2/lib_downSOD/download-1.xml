@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<sod>
+    <eventArm>
+		<CSVEventSource>
+			<filename>csvfile</filename>
+		</CSVEventSource>
+        <printlineEventProcess/>
+    </eventArm>
+    <networkArm>
+        <fdsnStation>
+            <channelCode>BHZ</channelCode>
+        </fdsnStation>
+		<networkOR>
