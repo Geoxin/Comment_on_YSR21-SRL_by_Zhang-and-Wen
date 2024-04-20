@@ -5,7 +5,7 @@
    * \>\> List_eventpairs
    * \>\> PA2.ps
 1. Collection of station info./seismic data of the "problematic" stations listed in YSR21.
-   1) Most data could be accessed on IRIS via SOD, so info. of stations are read from [SAC files]().
+   1) Most data could be accessed on IRIS via SOD, so info. of stations are read from [SAC files](https://drive.google.com/file/d/1Ay6kfJZXfmguYaoAQT3WumV-s3nBKzAp/view?usp=drive_link).
      - 1.1_stadownlist.pl
      - 1.2_cycle-downSOD.pl
        - << ./lib_downSOD/
@@ -21,7 +21,8 @@
       - << data_evn1_evn2.num/Info_YSR23errata_evn1_evn2
       - << "ttimes" (Buland & Chapman, 1983; IASP91 based following YSR21) to get parameters like slowness
       - \>\> data_evn1_evn2.num/Info_dtAlign
-   - 2.3_output-check.pl 
+   - 2.3_output-check.pl
+      - \>\> List_reproducibility
 4. RMS of dt(res) for doublet D1
    - 3_YSR23-dOrange.pl
       - << ../Align-YSR23errata.D1
