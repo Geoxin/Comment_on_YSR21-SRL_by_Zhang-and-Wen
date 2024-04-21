@@ -10,7 +10,7 @@ Station OBN for doublet D2_1993-2004
       _accessed on May 22, 2023 (please see timestamps of files)_
    - D2.1993.SACPZ.II.OBN.00.BHZ
    - D2.2004.SACPZ.II.OBN.00.BHZ
-4. Processed data following YSR21
+4. Processed data following YSR21 (with instrument response of this comment)
       _last modified on May 29, 2023 (please see timestamps of files)_
    - D2.1993.II.OBN.BHZ.sac.bp
    - D2.2004.II.OBN.BHZ.sac.bp
