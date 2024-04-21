@@ -1,9 +1,8 @@
 # Comment on YSR21-SRL by Zhang and Wen
-- Data, metadata and scripts used in the "additional note" of this comment
+- Data used in this comment
   - Data_D1_AAK
   - Data_D2_OBN
   - Data_SSI_ARU
-  - Scripts_FigAdd
 
 - [Original data](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link) used in this comment [ZW24] were downloaded from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center ([DMC](https://ds.iris.edu/ds/nodes/dmc/)) through the IRIS [Wilber 3](https://ds.iris.edu/wilber3/) system (last accessed in May 2023, please see timestamps of files), and were processed using Seismic Analysis Code (SAC).
 
