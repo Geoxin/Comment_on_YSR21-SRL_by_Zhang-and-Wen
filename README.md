@@ -10,7 +10,7 @@
 
 - [Original data](https://drive.google.com/drive/folders/1Z9Y1KwOJ1nUYWizEzCIUrgwJ6zx2vmSA?usp=drive_link) used in this comment [ZW24] were downloaded from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center ([DMC](https://ds.iris.edu/ds/nodes/dmc/)) through the IRIS [Wilber 3](https://ds.iris.edu/wilber3/) system (last accessed in May 2023, please see timestamps of files), and were processed using Seismic Analysis Code (SAC).
 
-- A [duplication](https://drive.google.com/drive/folders/1dt7Q7btSLQpwpgN-LHVPR6j9Rkt_QtnT?usp=drive_link) of the uploaded acrchive of the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen).
+- A [duplication](https://drive.google.com/drive/folders/1dt7Q7btSLQpwpgN-LHVPR6j9Rkt_QtnT?usp=drive_link) of the uploaded acrchive of the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen); duplicated on April 12, 2024.
 
 
 
