@@ -4,6 +4,10 @@
   - Data_D2_OBN
   - Data_SSI_ARU
 
+- Reproducibility test of the "clock errors" reported in YSR21
+  - List of re-computed "clock errors"
+  - List of ID of the doublets.
+
 - [Original data](https://drive.google.com/drive/folders/1UTYFrVcsD4f5Gl1H8fE8Cw8pLZmHhQFF?usp=drive_link) used in this comment [ZW24] were downloaded from the Incorporated Research Institutions for Seismology (IRIS) Data Manage Center ([DMC](https://ds.iris.edu/ds/nodes/dmc/)) through the IRIS [Wilber 3](https://ds.iris.edu/wilber3/) system (last accessed in May 2023, please see timestamps of files), and were processed using Seismic Analysis Code (SAC).
 
 - A [duplication](https://drive.google.com/file/d/1wNkmC2OmnrXnHrW1BGAVshxsK_vXWoDM/view?usp=drive_link) of the uploaded acrchive of the commented authors' [reply](https://github.com/yiyanguiuc/Data-used-in-Reply-to-Zhang-and-Wen).
