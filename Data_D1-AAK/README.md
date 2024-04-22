@@ -8,7 +8,7 @@ Station AAK for doublet D1_1995-2003
       * NOTE: _Accessed on May 22, 2023 (please see timestamps of files)_
      - D1.1995.SACPZ.KN.AAK.--.BHZ
      - D1.2003.SACPZ.KN.AAK.--.BHZ
-3. Processed data
+3. Processed data (Figs. 5a & 5b, A3c & A3d)
       * NOTE: _last modified on May 29, 2023 (please see timestamps of files)_
      - D1.1995.KN.AAK.BHZ.sac.bp
      - D1.2003.KN.AAK.BHZ.sac.bp
