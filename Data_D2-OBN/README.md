@@ -4,11 +4,11 @@ Station OBN for doublet D2_1993-2004
    - NOTE: _This is a duplication of the file accessed in the commented authors' reply_
    - ysr21.SAC_PZs_II_OBN_00_BHZ
 3. Original data downloaded via Wilber3: 
-   - NOTE: _accessed on May 22, 2023 (please see timestamps of files)_
+   - NOTE: _Accessed on May 22, 2023 (please see timestamps of files)_
    - II.OBN.00.BHZ.M.1993.309.070429.SAC
    - II.OBN.00.BHZ.M.2004.130.222754.SAC
 4. Instrument response files downloaded via Wilber3
-   - NOTE: _accessed on May 22, 2023 (please see timestamps of files)_
+   - NOTE: _Accessed on May 22, 2023 (please see timestamps of files)_
    - D2.1993.SACPZ.II.OBN.00.BHZ
    - D2.2004.SACPZ.II.OBN.00.BHZ
 5. Processed data (with the instrument responses of this comment)
