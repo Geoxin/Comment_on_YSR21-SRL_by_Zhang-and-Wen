@@ -1,6 +1,6 @@
 # Comment on YSR21-SRL by Zhang and Wen
 - [Data used in this comment](https://drive.google.com/file/d/1YsxKRhgOjfQuI1-agTo1rlcLm4EkX0SB/view?usp=drive_link)
-    - NOTE: _The link above saved the timestamps of files used in this comment; files uploaded to Github here are just the duplications for a quick access without the original timestamps._ 
+    - NOTE: _The link above saved the original timestamps of files used in this comment; files uploaded to Github here are just the duplications for a quick access without the original timestamps._ 
   - Data_D1_AAK
   - Data_D2_OBN
   - Data_SSI_ARU
