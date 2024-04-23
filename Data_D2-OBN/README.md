@@ -29,11 +29,11 @@ Station OBN for doublet D2_1993-2004
 
 ---
 ##### Processed data (PD)
-6. Processed data (with the instrument responses of this comment; Figs. 5c & 5d, A1b-right)
+6. Processed data (with the instrument responses of this comment; Figs. 5c & 5d, A1b-left)
    - NOTE: _Last modified on May 29, 2023 (please see timestamps of files)_
    - PD.D2.1993.II.OBN.BHZ.sac.bp.thiscom
    - PD.D2.2004.II.OBN.BHZ.sac.bp.thiscom
-7. Processed data (with the instrument responses used in YSR21 accessed in their reply; Figs. A1b-left, A3a & A3b)
+7. Processed data (with the instrument responses used in YSR21 accessed in their reply; Figs. A1b-right, A3a & A3b)
    - PD.II.OBN.00.BHZ.M.1993.309.070429.SAC.bp.ysr21
    - PD.II.OBN.00.BHZ.M.2004.130.222754.SAC.bp.ysr21
 - NOTE: _The processed data in 6 & 7 are exactly identical because their instrument responses are actually identical._
